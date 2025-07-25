@@ -86,3 +86,5 @@ The confusion matrix shows a very high number of correct predictions:
 
 This suggests the model is highly effective for this dataset.
 
+
+## GIT HUB : https://github.com/vinay-511/lernathon_team_07-SC1-.git
