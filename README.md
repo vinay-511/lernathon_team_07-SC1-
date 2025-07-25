@@ -2,6 +2,20 @@
 
 This project demonstrates how to build and evaluate a **Decision Tree Classifier** using Python and scikit-learn. The notebook includes steps from data preprocessing to model evaluation with visualization.
 
+
+## Team Details : 
+
+Team Name : TEAM(SCI)4_07
+Member Details :
+
+| Name               | Roll Number | Regestration Number      |
+| ------------------ | ----------- | ----------               |
+| Sanghamitra Nayak  | 22CSE883    | 22UG011007               |
+| G. Sai Suvarna     | 22CSE295    | 22UG010427               |
+| Kiran Kumari Nayak | 22CSE896    | 22UG011019               |
+| S. Vinay Kumar     | 22CSE380    | 22UG010511               |
+
+
 ## 📂 Project Structure
 
 - `code.ipynb` – Jupyter notebook containing the complete code for training, evaluating, and visualizing a decision tree classifier.
